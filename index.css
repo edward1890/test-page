@@ -11,4 +11,18 @@ body, html {
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
+
+      /* clip-path: circle(900px at 35px 35px); */
 }
+
+.frank {
+    clip-path: circle(15% at 50% 50%);
+}
+
+.stank {
+    clip-path: circle(13% at 89% 55%);
+}
+.ed {
+    position: right;
+}
+
